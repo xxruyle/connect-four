@@ -1,4 +1,4 @@
-# Connect Four Project 
+# connect-four 
 Connect four game in the command line 
 
 

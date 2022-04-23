@@ -1,7 +1,7 @@
-import objects 
+import connectfour
 
 def main():
-    b1 = objects.game()
+    b1 = connectfour.game()
     b1.start()
 
 if __name__ == "__main__":
